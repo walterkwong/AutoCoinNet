@@ -11,15 +11,6 @@ The system combines computer vision models with numismatic catalogue and auction
 
 The system follows a three stage pipeline:
 
-```text
-Photo / Camera
-      ↓
-Coin Localisation
-      ↓
-Classification + Grading
-      ↓
-Catalogue + Market Valuation
-```
 <img src="infrastructure.png" width="500">
 
 ## Detection
