@@ -1,0 +1,13 @@
+fastapi[standard]
+python-multipart
+torch
+torchvision
+transformers
+peft
+albumentations
+ultralytics
+onnx
+onnxruntime
+opencv-python-headless
+pillow
+numpy
