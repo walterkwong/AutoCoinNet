@@ -20,7 +20,6 @@ Classification + Grading
       ↓
 Catalogue + Market Valuation
 ```
-![System Infrastructure](infrastructure.png)
 <img src="infrastructure.png" width="500">
 
 ## Detection
